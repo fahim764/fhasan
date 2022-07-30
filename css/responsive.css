@@ -1,0 +1,700 @@
+/* XXL */
+
+@media screen and (min-width: 1900px) and (max-width: 2500px) {
+
+    /* Carousel */
+
+    .carousel-content {
+       padding-top: 225px;
+   }
+  
+}
+
+
+/*  xl */
+
+@media screen and (min-width: 1400px) and (max-width: 1899px) {
+
+     /* Carousel */
+
+     .carousel-content {
+        padding-top: 225px;
+    }
+}
+
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+     /* Header Area Start */
+
+     .nav-items ul li a {
+        font-size: 12px;
+        padding: 10px 12px; 
+    }
+
+    .contact-info ul li {
+        font-size: 12px;
+    }
+
+    /* Header Area */
+
+    .hero-left-content h2 {
+        font-size: 52px;
+    }
+
+    /* Acoordian */
+
+    .accordian-area {
+        padding: 0;
+      }
+
+      /* Degine Area */
+
+      .degine-area {
+        padding: 70px 0 0 0;
+      }
+
+    /* Carousel */
+
+    .carousel-content {
+        padding-top: 205px;
+    }
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+     /* Header Area Start */
+
+     .logo-area {
+        display: none;
+    }
+
+    .nav-area {
+        display: none;
+    }
+
+    .logo-sm {
+        display: block;
+    }
+    
+    .menu-bar-icon {
+        display: block;
+    }
+
+    /* Hero-Area Start */
+
+    .hero-left-content {
+        padding: 20px 10px;
+    }
+
+    .hero-left-content h2 {
+        font-size: 36px;
+    }
+
+    .hero-left-content h2 br {
+        display: none;
+    }
+
+    .hero-left-content a {
+        font-size: 18px;
+        margin: 10px 0 0 0;
+    }
+
+    .hero-img-area {
+        padding: 0 0 30px 0;
+    }
+
+      /* About Area  */
+
+      .about-area {
+        padding: 70px 0 0 0;
+    }
+    
+      .about-content p {
+        font-size: 20px;
+    }
+    
+    .team-info h2 {
+        font-size: 48px;
+    }
+
+    .about-card-content {
+        padding: 30px 0;
+    }
+
+    .about-card-area h3 {
+        font-size: 22px;
+    }
+
+    .about-card-area p {
+        font-size: 16px;
+    }
+
+    /* DEgine Area Start */
+
+    .degine-area {
+        padding: 30px 0;
+    }
+
+     .degine-title h2 {
+        font-size: 32px;
+        margin: 0;
+    }
+
+    .degine-title h2 br {
+        display: none;
+    }
+
+    .accordian-area {
+        padding: 40px 0 0 0;
+    }
+
+    .accordian .accordian-card{
+        margin-bottom: 20px;
+    }
+
+    .accordian .accordian-card .card-header h3{
+        font-size: 18px;
+    }
+
+    .accordian .accordian-card .card-body p{
+        font-size: 16px; 
+    }
+
+    .accordian .accordian-card .card-body p br {
+        display: none;
+    }
+
+      /* Leader Area */
+
+      .leader-area {
+        padding: 70px 0 220px 0;
+        background-position: center center;
+    }
+
+      /* Carousel */
+
+      .owl-theme .owl-dots .owl-dot span {
+        display: none;
+      }
+
+      .flickity-prev-next-button.next {
+        right: 45px;
+      }
+      
+      .flickity-prev-next-button.previous {
+        left: 45px;
+      }
+
+      .carousel-content {
+        padding-top: 255px;
+    }
+
+    .contact-area {
+        padding: 0 0 20px 0;
+      }
+
+        /* Product Area Start */
+
+     .product-area {
+        padding: 100px 0 40px 0;
+        background-position: center center;
+        background-size: cover;
+     }
+    
+     .product-title h2 {
+        font-size: 42px;
+        margin-bottom: 60px;
+        line-height: 40px;
+     }
+
+     .product-card {
+        padding: 40px 20px 20px 20px;
+        border-radius: 30px;
+     }
+
+     .product-content p {
+        font-size: 18px;
+        margin: 10px 0 0 0;
+     }
+
+     .product-btn {
+        text-align: left;
+        margin: 10px 0 25px 0;
+     }
+
+     .product-btn a {
+        font-size: 18px;
+     }
+
+     .product-right-img {
+        text-align: center;
+     }
+
+       /* Testimonial */
+
+       .testimonial-area {
+        padding: 0 0 50px 0;
+     }
+
+     .test-title h2 {
+        font-size: 48px;
+        margin: 0 0 60px 0;
+     }
+
+    .form-btn {
+        margin: 35px 0;
+    }
+
+    /* footer */
+
+    .social-icon {
+        padding-right: 0;
+    }
+
+    .social-icon a:first-of-type {
+        font-size: 24px;
+        margin-right: 0;  
+    }
+
+    .footer-menu ul li {
+        padding: 10px 15px;
+    }
+    
+
+
+  
+
+
+   
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+    /* Header Area Start */
+
+    .logo-area {
+        display: none;
+    }
+
+    .nav-area {
+        display: none;
+    }
+
+    .logo-sm {
+        display: block;
+    }
+    
+    .menu-bar-icon {
+        display: block;
+    }
+
+      /* Hero-Area Start */
+
+      .hero-left-content {
+        padding: 20px 10px 50px 10px;
+    }
+
+    .hero-left-content h2 {
+        font-size: 32px;
+    }
+
+    .hero-left-content h2 br {
+        display: none;
+    }
+
+    .hero-left-content p {
+        font-size: 15px;
+    }
+
+    .hero-left-content a {
+        font-size: 16px;
+        margin: 0;
+    }
+
+    .hero-img-area {
+        padding: 0 0 30px 0;
+    }
+
+    /* About Area  */
+
+    .about-area {
+        padding: 70px 0 0 0;
+    }
+
+    .about-title h2 {
+        font-size: 20px;
+        letter-spacing: 0;
+    }
+
+    .about-title span {
+        width: 130px;
+    }
+
+    .about-content h2
+    {
+        margin: 20px 0;
+    }
+
+    .about-content p {
+        font-size: 18px;
+    }
+
+    .about-content h3 {
+        font-size: 32px;
+        margin: 15px 0 0 0;
+    }
+
+    .about-card-area {
+        margin-bottom: 30px;
+    }
+
+    .about-card-content {
+        padding: 30px 0;
+    }
+
+     /* DEgine Area Start */
+
+     .degine-area {
+        padding: 30px 0;
+    }
+
+     .degine-title h2 {
+        font-size: 32px;
+        margin: 0;
+    }
+
+    .degine-title h2 br {
+        display: none;
+    }
+
+    .accordian-area {
+        padding: 40px 0 0 0;
+    }
+
+    .accordian .accordian-card{
+        margin-bottom: 20px;
+    }
+
+    .accordian .accordian-card .card-header h3{
+        font-size: 16px;
+    }
+
+    .accordian .accordian-card .card-body p{
+        font-size: 14px; 
+    }
+
+    .accordian .accordian-card .card-body p br {
+        display: none;
+    }
+
+    /* Leader Area Start */
+
+    .leader-area {
+        background: none;
+        padding: 30px 0 50px 0;
+    }
+
+    .leader-title h2 {
+        font-size: 32px;
+    }
+
+    .leader-title h2 br {
+        display: none;
+    }
+
+    .person-info h2 {
+        font-size: 24px; 
+    }
+
+    .person-info p {
+        font-size: 14px;
+    }
+
+    /*  Creative Area Start  */
+
+    .creative-area {
+        padding: 0;
+    }
+
+    .creative-title h2 {
+        font-size: 36px;
+    }
+
+     /* Carousel */
+
+    .owl-theme .owl-dots .owl-dot span {
+        display: none;
+      }
+
+      .carousel-content {
+        padding-top: 470px;
+    }
+
+     /* Product Area Start */
+
+     .product-area {
+        padding: 100px 0 40px 0;
+        background-position: center center;
+        background-size: cover;
+     }
+    
+     .product-title h2 {
+        font-size: 42px;
+        margin-bottom: 30px;
+        line-height: 40px;
+     }
+
+     .product-card {
+        padding: 40px 20px 20px 20px;
+        border-radius: 30px;
+     }
+
+     .product-content p {
+        font-size: 16px;
+        margin: 10px 0 0 0;
+     }
+
+     .product-btn {
+        text-align: left;
+        margin: 10px 0 25px 0;
+     }
+
+     .product-btn a {
+        font-size: 18px;
+     }
+
+     /* Testimonial */
+
+     .testimonial-area {
+        padding: 0 0 50px 0;
+     }
+
+     .test-title h2 {
+        font-size: 38px;
+        margin: 0 0 30px 0;
+     }
+
+     .flickity-prev-next-button.next {
+        display: none;
+      }
+      
+      .flickity-prev-next-button.previous {
+        display: none;
+      }
+
+    
+    .test-card {
+        padding: 40px 20px 30px;
+    }
+
+    .test-card p {
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .test-card p br {
+        display: none;
+    }
+
+    /*  Contact Area Start */
+
+    .contact-area {
+        padding: 0 0 20px 0;
+    }
+    
+    .contact-address {
+        padding-left: 0;
+    }
+
+    .contact-address h2 {
+        font-size: 28px;
+        margin: 0 0 20px 0;
+    }
+
+    .contact-address p {
+        font-size: 16px;
+    }
+
+    .contact-address p br {
+        display: none;
+    }
+
+    .form-btn {
+        margin: 35px 0;
+    }
+
+
+    /* footer */
+
+    .footer-social-icon {
+        display: block;
+    }
+
+    .footer-logo {
+        text-align: center;
+    }
+
+    .social-icon {
+        padding-right: 0;
+    }
+
+    .social-icon a:first-of-type {
+        font-size: 24px;
+        margin-right: 0;  
+    }
+
+    .social-icon a {
+        padding: 10px 13px;
+    }
+
+    .footer-menu ul {
+        justify-content: flex-start;
+    }
+    
+    .footer-menu ul li a {
+        font-size: 14px;
+    }
+
+    .footer-menu ul li {
+        padding: 10px 12px;
+    }
+    
+
+  
+    
+
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/* SM  */
+
+@media screen and (max-width: 400px) {
+
+    .carousel-content {
+        padding-top: 290px;
+    }
+
+
+
+
+}
+
